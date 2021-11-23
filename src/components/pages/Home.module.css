@@ -1,0 +1,21 @@
+.home_container {
+ width: 100%;
+ display: flex;
+ flex-direction: row; /* NESSA LINHA QUE IRÁ ALTERAR A POSICÃO DOS ICONES NA HOME*/
+ align-items: center;
+ justify-content: content;
+ padding: 4em;
+
+}
+
+.home_container h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+
+}
+
+.home_container h1 span{
+    color: #ffbb33;
+    padding: 0 0.2em;
+    background-color: rgb(95, 80, 80);
+}

@@ -1,0 +1,27 @@
+
+.container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    /* configuração para o navbar*/
+
+}
+
+.min-height{
+    min-height: 75%;
+
+    /* configuração para a home e paginas*/
+
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.colum{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
